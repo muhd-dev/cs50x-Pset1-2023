@@ -1,0 +1,6 @@
+
+// Tasks to be done:
+
+• I will ask the user for their height.
+• If the height is below 1 or above 8 (or not an integer), repeatedly ask the user until valid input is provided.
+• Iterate from a number to the user's specified height: during each iteration (i), print (i) hash symbols followed by a new line.
