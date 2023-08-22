@@ -15,7 +15,7 @@ int main(void)
     int twice[length];
 
     // Set the first value
-    twice[0] = 1
+    twice[0] = 1;
     printf("%i\n", twice[0]);
 
     for (int i = 1; i < length; i++)
